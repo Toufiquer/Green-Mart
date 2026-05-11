@@ -19,8 +19,8 @@ import MenuComponentWithSession from '@/components/common/MenuWithSession';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'App Generator',
-  description: 'Build apps faster',
+  title: 'Green Mart',
+  description: 'Your trusted e-commerce partnear',
   manifest: '/manifest.json',
   icons: {
     apple: '/icons/icon-192x192.png',
